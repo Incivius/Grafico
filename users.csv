@@ -1,0 +1,14 @@
+id,name,email,group_id,team_id,role_id,password
+0,A de Emmy,a@d.m,,,0,$2b$12$SMWiEKoxw/vyNJIjXJXU8.KaZlTQRVsUAyQCTNvjf2BTEg79ejMFG
+1,L do Gê,l@d.g,0,,1,$2b$12$tvXyLXuyK2N1Ba9OF6JuIun3j3056RS4svcJW7EQiwaohcvjvrk0a
+2,clielano,c@c.c,0,,2,$2b$12$DXEK8KRP3coi7BeAoF.jwOaWp.OOjqJvm0Evo/IF3HMPwwo3fcSzW
+3,lt um,lt1@o.com,0,0,3,$2b$12$aHQDHRmWV9b15Mda0nlhs.R3xHgb/fYgNY9Bl7Fp.GKQtgKwDEPCW
+4,lt dois,lt2@o.com,0,1,3,$2b$12$RKYg9NaHHcaQXa70cUo5ou9OHAe/U.5COpvdKwqRaEeOvgGyX7chS
+5,lt tres,lt3@o.com,0,2,3,$2b$12$Dm3e/kLhVanxV1QTVQTpCuVCXRPV8cUT2ggiO1hH6gjNcYsDJ1EuW
+6,po um,po1@o.com,0,0,4,$2b$12$BFoZdJ55oOe7AHuvWf9gHesgKowJ54QuoLd.Lvl7iW5vkg.X0a7Qu
+7,po dois,p02@o.com,0,1,4,$2b$12$d/5//9xHSd2adzzlb1BeFeZvLu/yF1wc6ibRipXBVMj8sAHK0klZ.
+8,po tres,p03@o.com,0,2,4,$2b$12$tEjzCOE3QDDBj3aLip2KieCrAuRZ0t1GWmV2.QkN.AoWah6MhmmoO
+9,deve,d@e.v,0,0,5,$2b$12$xujpZ4gyWZq0ncKZYmdfM.tgu5omyv.x7ZbZH8ZK6GWKmIMXQ1g.y
+10,semtime,st@s.t,0,,5,$2b$12$G83D59uNt9538ZviGm0OeO3Nubn7cLulkgvURB928bzlvFCTGWKCW
+11,timesem,ts@t.s,0,,5,$2b$12$L6E0yriCmyn4LaiJYmND4ePLk8bY6dedSgPE7ttDCcf4Xpw4P1Zta
+12,emitmes,s@e.m,0,,5,$2b$12$S1MXk1NdyeK8tCMLs/S4Eu0ggmHfCiM83pnswRF7zs2vQtutkWtYK
