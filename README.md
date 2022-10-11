@@ -17,3 +17,5 @@ se quiser saber como fazer gráficos usando essa biblioteca é só esperar. Se e
 jhooliveira.lopes@gmail.com
 
 valeu, tamo junto.
+
+detalhe, eu add meu mano marcus para me acompanhar nessa merd... maravilha de mundo mágico que é o pyhton.
